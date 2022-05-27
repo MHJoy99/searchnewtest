@@ -1,0 +1,12 @@
+cloudscraper
+dnspython
+google-api-python-client
+google-auth-oauthlib
+lxml
+pymongo
+python-dotenv
+python-magic
+python-telegram-bot
+requests
+telegraph
+tenacity
