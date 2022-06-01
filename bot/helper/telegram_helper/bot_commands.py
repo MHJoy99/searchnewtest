@@ -2,7 +2,7 @@ class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
         self.ListCommand = 'find'
-        self.CloneCommand = 'clone'
+        self.CloneCommand = 'appdrive'
         self.CountCommand = 'count'
         self.PermissionCommand = 'perm'
         self.DeleteCommand = 'del'
